@@ -10,7 +10,8 @@ const Footer = () => (
       bg: "siteColor",
     }}
   >
-    <div> <img src="https://github.com/warmalaskarais/gatsby-starter-foundation/blob/main/static/assets/community-partners-1.png">
+    <div> 
+    <img href="https://github.com/warmalaskarais/gatsby-starter-foundation/blob/main/static/assets/community-partners-1.png">
     </div>
   </footer>
 )
