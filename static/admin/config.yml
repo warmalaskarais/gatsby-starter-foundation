@@ -102,6 +102,32 @@ collections:
           - { label: "Slug", name: "slug", widget: "hidden", default: "/about" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Provider Resources"
+        name: "Provider Resources"
+        file: "src/content/pages/providerresources.md"
+        fields:
+          - {
+              label: "Template",
+              name: "template",
+              widget: "hidden",
+              default: "about-page",
+            }
+          - { label: "Slug", name: "slug", widget: "hidden", default: "/about" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Community Resources"
+        name: "Community Resources"
+        file: "src/content/pages/communityresources.md"
+        fields:
+          - {
+              label: "Template",
+              name: "template",
+              widget: "hidden",
+              default: "about-page",
+            }
+          - { label: "Slug", name: "slug", widget: "hidden", default: "/about" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
       - label: "Contact"
         name: "contact"
         file: "src/content/pages/contact.md"
