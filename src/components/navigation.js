@@ -14,6 +14,14 @@ const MenuItems = [
     path: "/about",
     title: "About",
   },
+    {
+    path: "/providerresources",
+    title: "Provider Resources",
+  },
+  {
+    path: "/communityresources",
+    title: "Community Resources",
+  },
   {
     path: "/blog",
     title: "Blog",
