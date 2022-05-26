@@ -4,6 +4,4 @@ slug: /contact
 title: Get in touch
 ---
 
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
-
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+Please contact us to learn more about WARM. You can use the form below, or you can call the following phone number: 907-786-1767
