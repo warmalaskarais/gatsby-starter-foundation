@@ -10,14 +10,7 @@ const Footer = () => (
       bg: "siteColor",
     }}
   >
-    <div className="container">
-      <p>
-        A GatsbyJS Starter for Netlify CMS, Made with{" "}
-        <span className="icon -love">
-          <RiHeart2Line />
-        </span>{" "}
-        by <Link to="/">Stackrole.com</Link>
-      </p>
+    <div id="https://github.com/warmalaskarais/gatsby-starter-foundation/blob/main/static/assets/community-partners-1.png">
     </div>
   </footer>
 )
