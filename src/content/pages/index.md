@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Working Alongside Refugees in Mental Health
 tagline: WARM
-featuredImage: /assets/community-partners-1.png
+featuredImage: /assets/flags.png
 cta:
   ctaText: Know more
   ctaLink: /about
