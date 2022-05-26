@@ -11,7 +11,7 @@ const Footer = () => (
     }}
   >
     <div> 
-    <img href="https://github.com/warmalaskarais/gatsby-starter-foundation/blob/main/static/assets/community-partners-1.png">
+    <img href="https://raw.githubusercontent.com/warmalaskarais/gatsby-starter-foundation/main/static/assets/community-partners-1.png">
     </div>
   </footer>
 )
