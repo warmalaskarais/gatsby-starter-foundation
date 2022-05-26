@@ -1,9 +1,11 @@
 ---
 template: blog-post
-title: test
-slug: /test
-date: 2022-05-26 15:36
+title: "Workshop #3: Narrative Exposure Therapy"
+slug: /workshop3
+date: 2020-01-25 15:36
 description: test
-featuredImage: /assets/alex-zr48yvupk04-unsplash.jpg
+featuredImage: /assets/training.png
 ---
-this is a test.
+As many WARM mental health practitioners have expressed interest in learning specific evidence-based therapies, our next workshop is on the only treatment – to our knowledge – that was specifically developed for refugee populations. Narrative Exposure Therapy is an evidence-based treatment for trauma disorders, particularly when trauma is complex and the result of political, cultural and/or social forces. Andrea Northwood, Ph.D. came to Anchorage to present the training. Like all WARM trainings, the workshop was free, co-sponsored by Refugee Assistance and Immigration Services (RAIS) and the University of Alaska Anchorage (UAA). The Alaska Psychological Association (AK-PA) sponsored seven continuing education credits for all attendees, and the Alaska Community Foundation funded the training. Dr. Northwood is a licensed psychologist and the Director of Client Services at the Center for Victims of Torture (CVT) in St Paul, Minnesota. Dr. Northwood has worked at CVT since 1995 in a variety of roles, including the provision of psychological services to torture survivors, training, research, and program development and administration. Dr. Northwood has conducted research and has clinical experience in the assessment and treatment of trauma survivors.
+
+In the workshop, Dr. Northwood used presentation, case examples, and experiential (role play) practice to provide an introduction to using Narrative Exposure Therapy (NET) in psychotherapy with survivors of torture and/or war trauma. NET does not currently have a certification process and this training did not “qualify” participants to conduct NET. Rather, this training provided an introduction to using NET. Practitioners are recommended to read the NET manual in detail (Schauer, M., Neuner, F., Elbert T. (2011). Narrative Exposure Therapy: A Short Term Treatment For Traumatic Stress Disorders [2nd edition]) and seek consultation from a practitioner who has experience in NET. WARM practitioners are welcome to contact Dr. Sara Buckingham for consultation: sbuckingham@alaska.edu.
