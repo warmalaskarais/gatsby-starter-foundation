@@ -10,8 +10,10 @@ const Footer = () => (
       bg: "siteColor",
     }}
   >
-    <div> 
-    <p> © Working Alongside Refugees in Mental Health </p>
+    <div className="container"> 
+      <p> 
+      © Working Alongside Refugees in Mental Health 
+      </p>
     </div>
   </footer>
 )
