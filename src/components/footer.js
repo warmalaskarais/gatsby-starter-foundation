@@ -11,7 +11,7 @@ const Footer = () => (
     }}
   >
     <div> 
-    <img href="https://raw.githubusercontent.com/warmalaskarais/gatsby-starter-foundation/main/static/assets/community-partners-1.png">
+    <p> © Working Alongside Refugees in Mental Health </p>
     </div>
   </footer>
 )
