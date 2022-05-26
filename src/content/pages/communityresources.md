@@ -3,21 +3,33 @@ template: about-page
 slug: /communityresources
 title: Community Resources
 ---
-Under Social Services: 
+# Social Services (e.g., Housing, Employment, Education, Employment, etc.)
 
-Change “Family Welcome Center” to “Language Support Center” – webpage is the same
+* [Alaska Housing Finance Corporation](https://www.ahfc.us/)
+* [Alaska Literacy Program](http://alaskaliteracyprogram.org/)
+* [Alaska Primary Care Association Community Health Workers Program](https://alaskapca.org/chw-apprenticeship/)
 
-Add Integrated English Training Pre-Apprenticeship Training in Healthcare (PATH) Academy https://www.scahecak.org/introducing-integrated-english-training-path-academies/
+* [Anchorage School District, Language Support Center, ASD Education Center](https://www.asdk12.org/Page/13300)
+* [Integrated English Training Pre-Apprenticeship Training in Healthcare (PATH) Academy](https://www.scahecak.org/introducing-integrated-english-training-path-academies/)
+* [Nine Star Education and Employment Services](http://ninestar.com/)
 
-Add Alaska Primary Care Association Community Health Workers Program https://alaskapca.org/chw-apprenticeship/
+* [Peer Leader Navigators Program  ](https://sites.google.com/alaskaliteracyprogram.org/anchorageplns)
+* [Refugee Assistance and Immigration Services](http://www.cssalaska.org/html/programs/refugee-assistance.php)
+* [St. Francis House Food Pantry](https://www.cssalaska.org/our-programs/st-francis-house/)
 
-Add Peer Leader Navigators Program https://sites.google.com/alaskaliteracyprogram.org/anchorageplns 
 
+# Legal Services
 
-Under Legal Services: 
+* [Alaska Institute for Justice](http://akijp.org/index.html)
 
-Add Alaska Legal Services Corporation https://www.alsc-law.org/ 
+* [Alaska Legal Services Corporation](https://www.alsc-law.org/)
 
-Under Medical Services:
+* [U.S. Citizenship and Immigration Services](https://www.uscis.gov/)
 
-Add Anchorage Neighborhood Health Center https://www.anhc.org/ 
+# Medical Services
+
+* [Anchorage Health Department - Immunizations, TB testing](https://www.muni.org/departments/health/Pages/default.aspx )
+
+* [Anchorage Neighborhood Health Center](https://www.anhc.org/)
+* [Providence Family Medicine Center](https://alaska.providence.org/locations/f/providence-family-medicine-center )
+
